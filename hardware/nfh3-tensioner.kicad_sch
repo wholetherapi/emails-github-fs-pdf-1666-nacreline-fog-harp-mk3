@@ -1,0 +1,10 @@
+(kicad_sch (version 20230121) (generator eeschema)
+  (uuid c3e45a91-3ea2-4e7c-8a32-9d8f4c6a3303)
+  (paper "A4")
+  (lib_symbols
+    (symbol "Mechanical:Tensioner_Mk3" (in_bom yes) (on_board yes))
+  )
+  (symbol (lib_id "Mechanical:Tensioner_Mk3") (at 45.72 52.07 0) (unit 1)
+    (property "Reference" "T1" (at 45.72 46.99 0))
+  )
+)
