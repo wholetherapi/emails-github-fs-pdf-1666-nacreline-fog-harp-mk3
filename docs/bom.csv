@@ -1,6 +1,0 @@
-part,quantity,description
-J1-J3,3,Conductive mesh probe connector Mk3
-U1,1,STM32L011 droplet counter
-U2,1,Charge amplifier INA333
-M1,1,Harp mesh Mk3 1.4 m x 0.9 m
-T1-T4,4,Mk3 tensioner clip
